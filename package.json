@@ -1,0 +1,19 @@
+{
+  "name": "decoder",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "budo index.js --live"
+  },
+  "keywords": [],
+  "author": "William Castandet <wcastand@gmail.com> (https://github.com/wcastand)",
+  "license": "MIT",
+  "devDependencies": {
+    "budo": "^9.1.0"
+  },
+  "dependencies": {
+    "ramda": "^0.22.1"
+  }
+}
